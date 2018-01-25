@@ -1,1 +1,2 @@
-# iterm-profile
+# Profile customisations for iTerm2
+
